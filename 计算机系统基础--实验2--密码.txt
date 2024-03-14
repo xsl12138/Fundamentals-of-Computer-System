@@ -1,0 +1,7 @@
+第一关：Why make trillions when we could make... billions?
+第二关：0 1 1 2 3 5
+第三关：(0 c 0x47) (1 n 0x88) (2 n 0x161) (3 y 0x3d) (4 h 0x20b) (5 a 0x7e) (6 j 0x3cc) (7 n 0x123) 其中的一个（已试过第一、二组）
+第四关：14 7
+第五关：beldog（只要保证字符的低4位依次满足25c4e7即可）
+第六关：2 1 6 3 4 5
+隐藏关：输入字符串DrEvil，密码7
